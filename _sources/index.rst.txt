@@ -13,14 +13,15 @@ in Berlin:
 * How is active information accumulation different from passive information
   accumulation?
 
-Next to figuring out these questions, I am contributing to the
-`Brain Imaging Data Structure (BIDS) <https://bids.neuroimaging.io>`_\ ,
-an emerging standard for the organization and documentation of neuroimaging
+Next to figuring out these questions, I am a maintainer of the
+`Brain Imaging Data Structure (BIDS) <https://bids.neuroimaging.io>`_\ , at
+the `Center for Reproducible Neuroscience <https://reproducibility.stanford.edu/>`_
+at Stanford University.
+BIDS is an emerging standard for the organization and documentation of neuroimaging
 data. BIDS will help making neuroscience more reproducible by facilitating
 (re)use, sanity-checking, and sharing of scientific data.
 
-I am also interested in more technical and concrete problems, such as how to
-accurately mark events in an experiment using consumer grade hardware.
+I am also interested in more technical problems, such as how to accurately mark events in an experiment using consumer grade hardware (`https://sappelhoff.github.io/usb-to-ttl <https://sappelhoff.github.io/usb-to-ttl>`_)
 
 Finally, I am a strong proponent of open source software and contribute to
 several software packages such as:
