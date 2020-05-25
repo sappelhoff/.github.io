@@ -32,4 +32,4 @@ several software packages such as:
 * `BIDS-validator <https://github.com/bids-standard/bids-validator>`_
 
 If you want to know more, or collaborate on an interesting topic, please get in
-touch!
+touch under [my first name] [dot] [my last name] [at] mailbox [dot] org.
